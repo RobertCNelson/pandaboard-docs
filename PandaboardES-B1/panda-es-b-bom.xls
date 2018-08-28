@@ -1,0 +1,2632 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 11">
+<link rel=File-List
+href="750-2170-002_Manufacturer_BOM_Report_files/filelist.xml">
+<link rel=Edit-Time-Data
+href="750-2170-002_Manufacturer_BOM_Report_files/editdata.mso">
+<link rel=OLE-Object-Data
+href="750-2170-002_Manufacturer_BOM_Report_files/oledata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+x\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:LastAuthor>TI User</o:LastAuthor>
+  <o:Created>2011-10-21T07:13:02Z</o:Created>
+  <o:LastSaved>2011-10-21T07:13:02Z</o:LastSaved>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding:0px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl24
+	{mso-style-parent:style0;
+	font-size:16.0pt;
+	font-family:"Arial Unicode MS", sans-serif;
+	mso-font-charset:0;
+	white-space:normal;}
+.xl25
+	{mso-style-parent:style0;
+	font-size:16.0pt;
+	font-weight:700;
+	font-family:"Arial Unicode MS", sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	white-space:normal;}
+.xl26
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:"Arial Unicode MS", sans-serif;
+	mso-font-charset:0;
+	white-space:normal;}
+.xl27
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:"Arial Unicode MS", sans-serif;
+	mso-font-charset:0;
+	white-space:normal;}
+.xl28
+	{mso-style-parent:style0;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:"Arial Unicode MS", sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid white;
+	border-left:none;
+	background:#666699;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl29
+	{mso-style-parent:style0;
+	color:white;
+	font-size:8.0pt;
+	font-weight:700;
+	font-family:"Arial Unicode MS", sans-serif;
+	mso-font-charset:0;
+	text-align:center;
+	background:#666699;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl30
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:"Arial Unicode MS", sans-serif;
+	mso-font-charset:0;
+	background:silver;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl31
+	{mso-style-parent:style0;
+	font-size:8.0pt;
+	font-family:"Arial Unicode MS", sans-serif;
+	mso-font-charset:0;
+	background:white;
+	mso-pattern:auto none;
+	white-space:normal;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>750-2170-002_Manufacturer_BOM_R</x:Name>
+    <x:WorksheetOptions>
+     <x:Selected/>
+     <x:DoNotDisplayGridlines/>
+     <x:TopRowVisible>72</x:TopRowVisible>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveRow>300</x:ActiveRow>
+       <x:ActiveCol>1</x:ActiveCol>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+    </x:WorksheetOptions>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:WindowHeight>13035</x:WindowHeight>
+  <x:WindowWidth>19995</x:WindowWidth>
+  <x:WindowTopX>240</x:WindowTopX>
+  <x:WindowTopY>90</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body link=blue vlink=purple>
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=1128 style='border-collapse:
+ collapse;table-layout:fixed;width:846pt'>
+ <col width=89 style='mso-width-source:userset;mso-width-alt:3254;width:67pt'>
+ <col width=256 style='mso-width-source:userset;mso-width-alt:9362;width:192pt'>
+ <col width=243 style='mso-width-source:userset;mso-width-alt:8886;width:182pt'>
+ <col width=256 style='mso-width-source:userset;mso-width-alt:9362;width:192pt'>
+ <col width=28 style='mso-width-source:userset;mso-width-alt:1024;width:21pt'>
+ <col width=256 style='mso-width-source:userset;mso-width-alt:9362;width:192pt'>
+ <tr height=54 style='height:40.5pt'>
+  <td height=54 width=89 style='height:40.5pt;width:67pt;line-height:8mm'
+  align=left valign=top><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+   coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+   filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_s1025" type="#_x0000_t75" alt="" style='position:absolute;
+   margin-left:0;margin-top:0;width:24pt;height:24pt;z-index:1'>
+   <v:imagedata src="../../Documents%20and%20Settings/a0864305/My%20Documents/Downloads/images/agile_logo_32.gif"/>
+   <x:ClientData ObjectType="Pict">
+    <x:SizeWithCells/>
+    <x:AutoPict/>
+   </x:ClientData>
+  </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;
+  position:absolute;z-index:1;margin-left:0px;margin-top:0px;width:32px;
+  height:32px'><img width=32 height=32
+  src="../../Documents%20and%20Settings/a0864305/My%20Documents/Downloads/images/agile_logo_32.gif"
+  v:shapes="_x0000_s1025"></span><![endif]><span style='mso-ignore:vglayout2'>
+  <table cellpadding=0 cellspacing=0>
+   <tr>
+    <td height=54 class=xl24 width=89 style='height:40.5pt;width:67pt'></td>
+   </tr>
+  </table>
+  </span></td>
+  <td class=xl25 width=256 style='width:192pt'>Manufacturer BOM Report</td>
+  <td width=243 style='width:182pt;line-height:8mm'></td>
+  <td width=256 style='width:192pt'></td>
+  <td width=28 style='width:21pt'></td>
+  <td width=256 style='width:192pt'></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl26 width=89 style='height:12.75pt;width:67pt'>Item
+  Number:</td>
+  <td class=xl27 width=256 style='width:192pt;line-height:4mm'>750-2170-002-EBOM</td>
+  <td style='line-height:4mm'></td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=45 style='height:33.75pt'>
+  <td height=45 class=xl26 width=89 style='height:33.75pt;width:67pt'>Description:</td>
+  <td class=xl27 width=256 style='width:192pt;line-height:4mm'>EBOM, OMAP4460
+  PANDABOARD, OMAP ES1.1, GP, 1.2G, PWR ES2.1, AUD ES2.0, 8-LYR, TIWI-BLE
+  MODULE</td>
+  <td style='line-height:4mm'></td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl26 width=89 style='height:12.75pt;width:67pt'>Item
+  Revision:</td>
+  <td class=xl27 width=256 style='width:192pt;line-height:4mm'>B ECN-13455</td>
+  <td style='line-height:4mm'></td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 colspan=6 style='height:12.75pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl28 width=89 style='height:12.75pt;width:67pt'>Level</td>
+  <td class=xl28 width=256 style='width:192pt'>Number</td>
+  <td class=xl28 width=243 style='width:182pt'>Rev</td>
+  <td class=xl28 width=256 style='width:192pt'>Description</td>
+  <td class=xl28 width=28 style='width:21pt'>Qty</td>
+  <td class=xl28 width=256 style='width:192pt'>Ref Des</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl29 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl29 width=256 style='width:192pt'>Mfr. Name</td>
+  <td class=xl29 width=243 style='width:182pt'>Mfr. Part Number</td>
+  <td class=xl29 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl29 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl29 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=45 style='height:33.75pt'>
+  <td height=45 class=xl30 align=right width=89 style='height:33.75pt;
+  width:67pt' x:num>0</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>750-2170-002-EBOM</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-13455</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>EBOM, OMAP4460
+  PANDABOARD, OMAP ES1.1, GP, 1.2G, PWR ES2.1, AUD ES2.0, 8-LYR, TIWI-BLE
+  MODULE</td>
+  <td class=xl30 width=28 style='width:21pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl30 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1000415</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-12078</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CONN,6 IN 1
+  SD/MMC CARD CAGE</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>J14</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KINGCONN</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>SDMM-B0-0011</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KINGCONN</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>SDMM-B0-0016</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1000836</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-10973</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X5R,0603,6.3V,20%,10UF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>6</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C115,C131,C134,C136,C169,C193</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM188R60J106ME47D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ECJ-1VB0J106M</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TAIYO YUDEN</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>JMK107BJ106MA-T</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1001043</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-11225</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,COG,0402,50V,5%,1NF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C152,C164</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM1555C1H102JA01D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1001044</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>C ECN-12877</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X7R,0402,16V,10%,15NF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C181</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>AVX</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>0402YC153KAT2A</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KEMET</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>C0402C153K4RACTU</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM155R71C153KA01D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TAIYO YUDEN</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>EMK105B153KW</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TDK</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>C1005X7R1C153K</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>YAGEO</td>
+  <td class=xl31 align=right width=243 style='width:182pt;line-height:4mm'
+  x:num="223878715638">2.23879E+11</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1001162</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-11362</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>LED,635NM,DIFFUSED,0603,RED</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>D3</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>LUMEX</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>SML-LX0603IW-TR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1001197</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-11400</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP, CER, C0G,
+  0402, 50V, 5%, 12PF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C102,C103</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM1555C1H120JZ01D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1001336</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-11770</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC,TFP410,DVI1.0
+  COMPLIANT 24 BIT RGB TO DIGITAL SERIAL TRANSMITTER</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TFP410PAP</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1001422</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-11612</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP, CER, X5R,
+  0402, 10V, 10%, 220NF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C64,C126</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM155R61A224KE19D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1001969</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-11991</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC,TWO BIT
+  BI-DIRECTIONAL TRANSLATOR,TXS0102DCUR,VSSOP-DCU-8</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U2</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TXS0102DCUR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002211</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12174</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC,REGULATOR,LDO,FIXED
+  3.3V,400MA,SOT23</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U9</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TPS73633DBVR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=105 style='height:78.75pt'>
+  <td height=105 class=xl30 width=89 style='height:78.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002268</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12268</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X5R,0201,6.3V,10%,0.1UF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>65</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C18,C19,C25,C26,C27,C34,C36,C38,C39,C40,C42,C44,C45,C46,C47,C54,C55,C56,C57,C65,C68,C69,C72,C75,C78,C79,C85,C86,C92,C98,C101,C105,C110,C111,C118,C119,C121,C122,C123,C125,C127,C165,C171,C173,C177,C200,C201,C202,C204,C205,C206,C207,C211,C212,C214,C215,C217,C220,C221,C223,C225,C226,C227,C228,C229</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM033R60J104KE19D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002519</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12578</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC,TPD6E001, 6
+  CHANNEL LOW CAPACITANCE 15KV ESD PROTECTION ARRAY, RSE</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U15,U17</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TPD6E001RSER</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=45 style='height:33.75pt'>
+  <td height=45 class=xl30 width=89 style='height:33.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002526</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>C ECN-12737</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CRYSTAL, SM,
+  32.768KHZ, 12.5PF-LOAD, ±20PPM @ -40 TO+85 C, MINIATURE CERAMIC (3X1.5X0.9MM)</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>Y2</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MICRO CRYSTAL</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>CC7V-T1A-32.768KHZ-12.5PF-20PPM-TA-QC</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MICRO CRYSTAL</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>CM7V-T1A-32.768KHZ-12.5PF-20PPM-TA-QC</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002529</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12578</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X5R,0402,16V,10%,100NF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C187</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM155R61C104KA88B</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002534</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12516</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X5R,0402,10V,10%,1UF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>3</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C11,C74,C198</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM155R61A105KE15D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002535</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12578</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X7R,0805,16V,10%,4.7UF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C233,C234</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM21BR71C475KA73K</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=45 style='height:33.75pt'>
+  <td height=45 class=xl30 width=89 style='height:33.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002537</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12578</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X5R,0402,6.3V,20%,2.2UF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>27</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C22,C31,C49,C50,C87,C88,C89,C90,C91,C93,C94,C97,C100,C107,C113,C117,C128,C132,C143,C146,C147,C148,C149,C150,C175,C184,C231</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TAIYO YUDEN</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>JMK105BJ225MV-F</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002559</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12578</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,1K-OHM,1%,0.05W,0201</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>6</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R26,R91,R94,R114,R117,R146</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ1GEF1001C</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR006YZPF1001</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002575</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12578</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IND, CHIP COIL,
+  1UH, 20%, 1200MA, SMT (SIZE 2520)</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>L5</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>FDK</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MIPS2520D1R0</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TAIYO YUDEN</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>CKP25201R0M-T</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002606</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12578</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, 4-CHANNEL
+  ESD PROTECTION FOR HSUSB/USBOTG INTERFACE</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U24</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TPD4S012DRYR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002658</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12578</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X5R,0402,10V,10%,470NF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>13</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C35,C37,C70,C104,C106,C112,C120,C124,C166,C172,C203,C222,C230</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM155R61A474KE15D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002666</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12578</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>INDUCTOR, CHIP,
+  1UH, 0805, 20%, 800MA,DCR=0.19OHMS</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>L8,L9</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>LQM21PN1R0MC0D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002671</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12578</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>FERRITE BEAD,
+  120 OHM @ 100 MHZ, 1300MA, SMT, 0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>5</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>L7,L10,L17,L19,L20</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>BLM15PD121SN1D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002717</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12644</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CONN,RECEPTACLE,USB
+  MINI-AB,5-PIN,SMT</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>J18</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MOLEX</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>56579-0576</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002735</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12640</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>FERRITE BEAD,
+  220 OHM @ 100 MHZ, 2200MA, SMT, 0603</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>9</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>L1,L3,L4,L6,L11,L13,L15,L18,L22</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>BLM18KG221SN1D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002741</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-12699</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP, TANT, 7343,
+  25V, 20%, 47UF, POL</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C153</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>AVX</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TAJD476K025RNJ</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>VISHAY</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>293D476X0025D2TE3</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002743</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-12977</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X5R,0402,6.3V,+20%/-15%,4.7UF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>16</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C30,C32,C114,C130,C133,C135,C137,C139,C141,C158,C159,C163,C168,C199,C210,C236</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM155R60J475ME87D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002932</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12736</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, USB
+  TRANSCEIVER, HS, ULPI, INPUT/OUTPUT CLOCK MODES, QFN SMT</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U7</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>SMSC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>USB3320C-EZK</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1002952</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12742</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC,INTEGRATED
+  LOAD SWITCH,20V,SUPERSOT-6</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U14,U16</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>FAIRCHILD SEMI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>FDC6330L</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003077</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12864</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,3.32K-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>7</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R92,R101,R108,R118,R123,R128,R143</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>VISHAY</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>CRCW04023321F100</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=75 style='height:56.25pt'>
+  <td height=75 class=xl30 width=89 style='height:56.25pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003079</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13015</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,33-OHM,1%,0.05W,0201</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>42</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R38,R39,R40,R41,R43,R44,R45,R46,R49,R50,R52,R53,R62,R63,R64,R65,R66,R67,R68,R72,R73,R74,R75,R78,R80,R82,R83,R84,R85,R86,R87,R115,R116,R119,R120,R124,R125,R126,R127,R129,R131,R141</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR006YZPF33R0</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003122</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12895</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, LPDDR2, POP,
+  OMAP4, (8 GBIT - 2GBIT X 4), 200MHZ, ELPIDA</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>UX10</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ELPIDA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>EDB8064B1PB-8D-F</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003162</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12925</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CONN, DB9
+  FEMALE,R/A, SOLDER SMD</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>P4</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>NORCOMP</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>190-009-263R001</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003169</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12925</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES, 12.4K-OHM,
+  1%, 1/16W, 0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R17,R105</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KOA SPEER</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RK73G1ETTP1242F</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KOA SPEER</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RK73H1ETTP1242F</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ2RKF1242X</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR01MZPF1242</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>YAGEO</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RC0402FR-0712K4</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003172</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12925</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, ETHERNET
+  CONTROLLER/USB 4 PORT HUB, 10/100 ETHERNET</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U8</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>SMSC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>LAN9514-JZX</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003175</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12948</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CRYSTAL, 25 MHZ,
+  8 PF, SMD, 8.0X4.5X1.8MM</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>Y1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>NDK</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>NX8045GB-25.000000MHZ</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003197</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12925</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, PWR
+  SWITCH+ADJ LDO,14-HTSSOP</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U21</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TPS2141IPWP</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003199</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12946</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, TPS2054B
+  CURRENT LTD POWER DISTRIBUTION SWITCH</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U6</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TPS2054BD</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003202</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12948</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES, 620K-OHM,
+  1%, 0.063W, 0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R174</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ2RKF6203X</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR0004YZPF6203</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>VISHAY</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>CRCW0402620KFKEA</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003203</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12948</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CONN, POWER
+  JACK, 2.1MM, TH</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>P3</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>CUI INC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>PJ-002A</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003204</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12948</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, 4-BIT
+  BIDIRECTIONAL VOLTAGE TRANSLATOR, TXS0104</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U20</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TXS0104EZXUR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003206</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12948</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP, 100UF, 10V,
+  SMT, 10%, 6032</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>4</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C20,C24,C66,C67</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KEMET</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>B45196H2107K309</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>VISHAY SPRAGUE</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>293D107X9010C2TE3</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003207</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12948</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, SUPERVISOR,
+  VOLT DETECTOR ADJ/1.5V, SC70-5</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U19</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TPS3803G15DCKR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003208</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12948</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CONN, RCPT,
+  HDMI, R/A,SMD, TYPE A</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>P1,P2</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>FCI CONNECTORS</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>10029449-001RLF</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003238</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12967</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>ANTENNA, 2.4GHZ
+  BAND, CERAMIC CHIP</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>ANT1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TDK</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ANT040015CCS2442MA1</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=45 style='height:33.75pt'>
+  <td height=45 class=xl30 width=89 style='height:33.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003245</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-13002</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CONNECTOR, USBX2
+  TYPE A AND 10/100BASE-TX ETHERNET STACKED WITH MAGNETICS AND LEDS</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>J9</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>BEL FUSE INC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>08C2-1X1T-03</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>BEL FUSE INC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>08C2-1X1T-36</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TYCO</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>6620004-1</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003247</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12975</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CONN,DUAL 3.5MM
+  AUDIO,STACKED</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>J16</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KYCON</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>STX-4235-3/3-N</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003351</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A2 ECN-13331</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IND, 1.0UH,
+  1.8A, 1210, +/-20%, DCR=0.048OHM</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>L14</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>LQM32PN1R0MG0</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003359</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13015</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>INDUCTOR, CHIP,
+  0.68UH, 2 X 2 X 1MM, SHIELDED</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>L12</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>COILCRAFT</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>EPL2010-681MLC</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003364</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13042</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP, CER, 47UF,
+  20%, X5R, 6.3V,0805, 1.25MM TALL</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C176,C237</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TAIYO YUDEN</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>JMK212BJ476MG-T</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003381</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13019</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CONN,
+  HEADER,2X7, 2.54MM PITCH, THROUGH-HOLE</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>J8</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>FCI CONNECTORS</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>67997-414HLF</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003389</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-13028</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, RS-232
+  TRANSCEIVER, 3V-5.5V, 250KB/S, 16-SOP</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U23</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MAX3232CDR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MAX3232IDR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>SN65C3232EDR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>SN75C3232EDR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TRS3232CDR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TRS3232IDR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003454</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>C ECN-13164</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>OSC, 38.400 MHZ,
+  1.8V, CMOS, SMD, 5.0 X 3.2MM</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>Y3</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TXC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>7C38470004</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>VECTRON</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>VC-801-JAW-KAAN-38M4000000</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>VECTRON</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>VCC4-H3B-38M4000000</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003474</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12753</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>PULSEGUARD, ESD
+  SUPRESSOR, 0603, 24VDC, 45A</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>4</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>D4,D5,D6,D7</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>LITTELFUSE</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>PGB1010603MR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003550</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13172</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, 4-BIT
+  BIDIRECTIONAL VOLTAGE TRANSLATOR, TXB0104</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U12</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TXB0104ZXUR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003570</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-13256</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, TPS62361,
+  PROCESSOR CORE SUPPLY, I2C, 3A. STEP DOWN DC-DC</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U25</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TPS62361YZHR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003687</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13243</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP, CER, 10UF,
+  X5R, 0402, 20%, 6.3V</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>4</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C129,C138,C142,C213</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM155R60J106ME44</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003696</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13243</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP, CER, X5R,
+  0201, 6.3V, +/-20%, 1UF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>11</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C41,C43,C77,C83,C84,C208,C209,C216,C218,C219,C224</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM033R60J105MEA2D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003700</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13241</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, PHOENIX
+  AUDIO, ES2.0, 6X6MM, PBGA-120, 0.5MM PITCH, TWL6040</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U18</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TWL6040BZQZ</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003740</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12836</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IND, POWER,
+  1.0UH, 30%, 1400MA, 0806</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>L16</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>LQM2MPN1R0NG0L</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003772</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12752</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES, 240 OHM,
+  1%, 0.05W, 0201</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R79,R89</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ-1GEF2400C</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>VISHAY</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>CRCW0201240RFNED</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003783</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-12752</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>SW, SLIDE, 1PSN,
+  SMT</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>SW1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>COPAL ELECTRONICS</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>CHS-01TA</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003795</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13272</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, PHOENIX
+  POWER, ES2.0, 7X7MM, 256 BALLS, 0.4MM PITCH, TWL6030, 4460 TRIMMED(1A4)</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U11</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>PTWL6030B1A4CMR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003800</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-11135</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, 4.5-17V
+  INPUT, 3A SYNC STEP DOWN SWIFT™ CONVERTER</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U22</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TPS54320RHL</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003801</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-11135</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IND, 6.8UH,
+  0.032-DCR, 4.0A, SMT</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>L21</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TDK</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>VLP8040T-6R8M</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003802</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-11135</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,1.78K-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R170</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>STACKPOLE ELECTRONICS</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RMCF0402FT1K78</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>VISHAY</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>CRCW04021K78FKED</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003803</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-11135</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP, CER, 91PF,
+  C0G, +/-5%, 50V, 0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C232</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KEMET</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>C0402C910J5GACTU</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TDK</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>C1005C0G1H910J</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003807</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-10882</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IND, 1.0UH,
+  +/-20%, 0.051 OHM DCR, 2.6A, SMT, 1210</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>L23</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>CYNTEC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>PST32251B-1R0MS-11</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003812</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13287</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, 8-CHANNEL
+  HDMI PORT EMI FILTER W/ ESD PROTECTION, 28WCSP</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U5</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TPD12S015AYFFR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1003817</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13272</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>MODULE, RF,
+  WL1271, 802.11B/G+BLUETOOTH, BLE</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U3</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>LS RESEARCH</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>TIWI-BLE</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1004044</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13363</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC, OMAP4460
+  PROCESSOR, ES1.1, GP, 1.2G, 12X12MM, FCPOP1</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U10</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>X4460BCBL</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>X4460BUCBL</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1004093</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13398</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>FUSE, 1.5A
+  FASTBLOW 32V, 0402, LITTLEFUSE 435 SERIES</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>F1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>LITTELFUSE</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>043501.5KR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1004104</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13411</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>DIODE,RECTIFIER,SCHOTTKY,
+  30V, 1A, 0.31VF, POWERDI 123, SMT</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>D8</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>DIODES INC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>DFLS130L-7</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>111-1004108</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-13411</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES, 0.02-OHMS,
+  1%, 0.20W, 75PPM, 0603, CURRENT SENSE</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R186</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>VISHAY</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>WSL0603R0200FEA18</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>207-0007-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-12735</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X7R,0402,50V,10%,330PF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C183</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>BC COMPONENTS</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>0402B331K500BT</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM155R71H331KA01D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ECJ0EB1H331K</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>VISHAY</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>VJ0402Y331KXACW1BC</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>207-0054-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A PNR-10008</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X7R,0402,16V,10%,0.01UF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>4</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C109,C170,C174,C185</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>AVX</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>0402YC103KAT2A</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KEMET</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>C0402C103K4RAC</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ECJ0EB1C103K</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=75 style='height:56.25pt'>
+  <td height=75 class=xl30 width=89 style='height:56.25pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>207-0068-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A PNR-10008</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X5R,0402,10V,10%,100NF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>43</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C7,C8,C10,C12,C13,C15,C16,C17,C23,C28,C29,C33,C51,C52,C53,C58,C60,C61,C62,C63,C71,C73,C95,C108,C116,C140,C144,C145,C154,C155,C156,C157,C161,C162,C167,C179,C186,C188,C189,C194,C195,C196,C197</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>AVX</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>0402ZD104KAT2A</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KEMET</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>C0402C104K8PAC</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM155R61A104KA01</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ECJ0EB1A104K</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>207-0105-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A PNR-10105</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X5R,0805,10V,10%,4.7UF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C190</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM219R61A475KE19J</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ECJ2FB1A475K</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>207-0165-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-12775</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,X5R,0603,6.3V,10%,4.7UF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>5</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C21,C48,C178,C180,C182</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>AVX</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>06036D475KAT2A</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>MURATA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>GRM188R60J475KE19D</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>207-0226-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A PNR-10105</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CAP,CER,NPO,0402,
+  50V, 5%, 18PF</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C81,C82</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>AVX</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>04025A180JAT2A</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KEMET</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>C0402C180J5GAC</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>224-0280-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-11718</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>CONN, TEST
+  POINT, SINGLE HOOP, COMPACT, SMT</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>GND1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KEYSTONE ELECTRONICS</td>
+  <td class=xl31 align=right width=243 style='width:182pt;line-height:4mm' x:num>5016</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>246-0092-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-11714</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IND, 5.6NH,
+  +/-0.2NH, 340MA, 0.19 OHM, 0402, SMT</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>L2</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ELJRF5N6ZFB</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>252-0271-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-11718</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>IC,SINGLE
+  BUFFER/DRIVER WITH OPEN-DRAIN OUTPUT,SC-70-5</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>U13</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TI</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>SN74LVC1G07DCKR</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>257-0020-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A PNR-10074</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>LED,565NM,WATER-CLEAR,3216,GRN</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>D1,D2</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>LITEON ELECTRONICS</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>LTST-C150GKT</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0029-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-10775</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,10K-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>17</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R22,R24,R25,R31,R34,R54,R55,R56,R57,R59,R81,R88,R95,R97,R142,R149,R183</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ2RKF1002X</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR01MZPF1002</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=45 style='height:33.75pt'>
+  <td height=45 class=xl30 width=89 style='height:33.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0065-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-12846</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,0.0-OHM,RES-MAX-60M-OHM,CUR-MAX1A,0402,JUMPER</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>27</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R4,R5,R6,R7,R8,R9,R10,R11,R14,R19,R20,R21,R58,R61,R70,R121,R122,R152,R153,R156,R157,R159,R181,R182,R185.R187,C235</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KOA SPEER ELECTRONICS, INC.</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RK73Z1ETTP</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ2GE0R00X</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0093-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A PNR-10081</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,10-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R135</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KOA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RK73H1ETTD10R0F</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ2RKF10R0X</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0177-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-10775</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,100K-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>6</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R151,R154,R158,R162,R169,R173</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ2RKF1003X</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR01MZPF1003</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0198-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-10775</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,100-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R107,R134</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ2RKF1000X</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR01MZPF1000</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0206-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A PNR-10085</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,1M-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R109,R140</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KOA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RK73H1ELTD1004F</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ2RKF1004X</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR01MZSF105</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>YAGEO</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>9C04021A1004FLHF3</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0209-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-12685</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,4.7K-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>3</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R1,R18,R23</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KOA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RK73H1ELTD4701F</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KOA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RK73H1ETTP4701F</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0251-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A PNR-10093</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,510-OHM,1%,0.063W,0603</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R13</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ3EKF5100V</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0270-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-10874</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,150K-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R155,R168</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KOA SPEER</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RK73H1ETTP1503F</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR01MZSF1503</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0349-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-12894</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,390-OHM,5%,0.250W,1206</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R166</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KOA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RK73B2BLTD391J</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ-8GEYJ391V</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR18EZPJ391</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>STACKPOLE ELECTRONICS</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RMCF1206JT390R</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>VISHAY</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>CRCW1206390RJNEA</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>YAGEO</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RC1206JR-07390RL</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0381-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A PNR-10086</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,200K-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R175</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ2RKF2003X</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0421-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A PNR-10089</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,330-OHM,5%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R93,R98</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ2GEJ331X</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR01MZSJ331</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0426-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-12932</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,33K-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R165</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR01MZSF333</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>YAGEO</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>9C04021A3302FLHF3</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>YAGEO</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RC0402FR-0733KL</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0457-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>C ECN-11298</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,49.9-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>4</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R106,R110,R113,R130</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KOA SPEER</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RK73H1ETTP49R9F</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>YAGEO</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>9C04021A49R9FLHF3</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>YAGEO</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RC0402FR-0749R9L</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0473-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-12692</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,8.06K-OHM,1%,0.100W,0603</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R42</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KOA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RK73H1JLTD8061F</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>KOA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RK73H1JTTD8061F</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0494-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A PNR-10079</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,0.0-OHM,JUMPER,0.05W,0201</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>3</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R47,R51,R177</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>ERJ1GE0R00C</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0609-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-12684</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES,36.5K-OHM,1%,0.063W,0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R184</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR01MZSF3652</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>VISHAY</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>CRCW040236K5FKED</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0766-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-11034</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES, 15 OHM, 5%,
+  0.063W, 0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R161,R163</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR01MZPJ150</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>272-0775-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A ECN-11032</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>RES, 12K OHM,
+  1%, 0.063W, 0402</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>R103</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>ROHM</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>MCR01MZPF1202</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>276-0037-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A.1 ECN-11932</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>SW,TACTILE,4.3MM
+  HT X 9.0MM PITCH,SMT</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>S1,S2</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>OMRON</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>B3S-1000P</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=30 style='height:22.5pt'>
+  <td height=30 class=xl30 width=89 style='height:22.5pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>289-0056-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-13000</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>TRANSISTOR,NPN,SWITCHING,50V,100MA,6-PIN,US6</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>T1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>INFINEON</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>BCR135S</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>DMC56404</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>PANASONIC</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>XP04214</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>TOSHIBA</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>RN1907</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl30 width=89 style='height:12.75pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>289-0091-000</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>B ECN-12738</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>MOSFET,N-CHANNEL,20V,2.5A,SOT23</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>2</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>Q1,Q2</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl31 width=89 style='height:12.75pt;width:67pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'>NXP</td>
+  <td class=xl31 width=243 style='width:182pt;line-height:4mm'>PMV56XN,215</td>
+  <td class=xl31 width=256 style='width:192pt;line-height:4mm'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=28 style='width:21pt'><nobr>&nbsp;</nobr></td>
+  <td class=xl31 width=256 style='width:192pt'><nobr>&nbsp;</nobr></td>
+ </tr>
+ <tr height=120 style='height:90.0pt'>
+  <td height=120 class=xl30 width=89 style='height:90.0pt;width:67pt'>. 1</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>NOT_USED</td>
+  <td class=xl30 width=243 style='width:182pt;line-height:4mm'>A PNR-10113</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>NOT INSTALLED
+  COMPONENT</td>
+  <td class=xl30 align=right width=28 style='width:21pt;line-height:4mm' x:num>77</td>
+  <td class=xl30 width=256 style='width:192pt;line-height:4mm'>C151,C160,C3,C5,C6,C192,C59,R76,R77,R102,R104,R132,R133,R147,R148,R36,R37,R178,R180,R90,R99,R136,R137,R138,R139,J17,J3,J6,J5,J2,J1,J4,R35,J7,C1,C2,C4,C191,C76,C80,C96,C99,J10,J11,J13,J15,J19,U4,R12,R28,R29,R30,R32,R33,R96,R100,R111,R112,R145,R150,R2,R3,R15,R16,R27,R69,R71,R144,R160,R164,R176,R167,R171,R172,R48,R60,R179</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=89 style='width:67pt'></td>
+  <td width=256 style='width:192pt'></td>
+  <td width=243 style='width:182pt'></td>
+  <td width=256 style='width:192pt'></td>
+  <td width=28 style='width:21pt'></td>
+  <td width=256 style='width:192pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
